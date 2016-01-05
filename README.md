@@ -1,11 +1,11 @@
 # FreelanceMe v0.0.1
 ###### The free solution for small freelance business
-If you find [FreelanceMe](https://github.com/CrossedCode/FreelanceMe) usefull don't forget to hit that **start**. Remember, to keep everything as it should, **fork** only when you are ready to create your own copy to work on.
+If you find [FreelanceMe](https://github.com/CrossedCode/FreelanceMe) usefull don't forget to hit that **star**. Remember, to keep everything as it should, **fork** only when you are ready to create your own copy to work on.
 
 ---
 ### By [CrossedCode](http://www.crossedcode.com)
-###### ~~Copyright © 2015~~
-_We are still working under which license we will release the actual [FreelanceMe](https://github.com/CrossedCode/FreelanceMe) project. Since we will be sharing it here, we are thinking on [MIT License](http://choosealicense.com/licenses/mit) with a few exceptions._
+###### Copyright © 2015-2016
+_Free to use in personal software as per the [license](#license-url)._
 
 ---
 ### Objectives
@@ -16,16 +16,18 @@ _We are still working under which license we will release the actual [FreelanceM
 
 ---
 ### Features
-- Project Management
-- Project Tasks
-- Project Notes
-- Estimates & Invoicing
-- Bug Tracking System
+- ~~Project Management~~ `(Planned)`
+- ~~Project Tasks~~ `(Planned)`
+- ~~Project Notes~~ `(Planned)`
+- ~~Estimates & Invoicing~~ `(Planned)`
+- ~~Bug Tracking System~~ `(Planned)`
 
 ###### Additional Features
-- Multiple language support
-- File sharing
-- Private Messaging
+- User Management (Thanks to UserFrosting)
+- Calendar (Thanks to Fullcanlendar)
+- ~~Multiple language support~~ `(Planned)`
+- ~~File sharing~~ `(Planned)`
+- ~~Private Messaging~~ `(Planned)`
 
 ---
 ### Installation
@@ -42,10 +44,15 @@ Troubleshooting information goes here...
 [FreelanceMe](https://github.com/CrossedCode/FreelanceMe) is continuously evolving, so keep in touch, hit that **star** and make your freelance life a whole lot easier.
 
 ---
-### Version Tracking
-###### v0.0.1
-- This was the version that started it all.
+### Changelog
+##### v0.0.2 | 01-01-2016
+- Included Calendar [(Fullcanlendar)](#)
+
+##### v0.0.1 | 12-31-2015
+- **Version that started it all.**
+- Started only with few front-end pages and modules.
+- Included user management [(UserFrosting)](#).
 
 ---
-## You can join us and chat a little about FreelanceMe
+###### You can join us and chat a little about FreelanceMe
 [![Join the chat at https://gitter.im/CrossedCode/FreelanceMe](https://badges.gitter.im/CrossedCode/FreelanceMe.svg)](https://gitter.im/CrossedCode/FreelanceMe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
