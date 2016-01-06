@@ -5,7 +5,7 @@ If you find [FreelanceMe](https://github.com/CrossedCode/FreelanceMe) usefull do
 ---
 ### By [CrossedCode](http://www.crossedcode.com)
 ###### Copyright © 2015-2016
-_Free to use in personal software as per the [license](#license-url)._
+_Free to use in personal software as per the [license](licenses)._
 
 ---
 ### Objectives
