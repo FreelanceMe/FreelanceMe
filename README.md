@@ -1,6 +1,6 @@
 # FreelanceMe v0.0.1
 ###### The free solution for small freelance business
-If you find [FreelanceMe](https://github.com/CrossedCode/FreelanceMe) usefull don't forget to hit that **star**. Remember, to keep everything as it should, **fork** only when you are ready to create your own copy to work on.
+If you find [FreelanceMe](https://github.com/CrossedCode/FreelanceMe) useful don't forget to hit that **star**. Remember, to keep everything as it should, **fork** only when you are ready to create your own copy to work on.
 
 ---
 ### By [CrossedCode](http://www.crossedcode.com)
