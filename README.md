@@ -30,6 +30,32 @@ _Free to use in personal software as per the [license](licenses)._
 - ~~Private Messaging~~ `(Planned)`
 
 ---
+### Screenshots
+##### Calendar
+
+![FreelanceMe Calendar](/screenshots/1-Calendar.jpg?raw=true "FreelanceMe Calendar")
+
+##### Clients
+
+![FreelanceMe Clients](/screenshots/2-Clients.jpg?raw=true "FreelanceMe Clients")
+
+##### Projects
+
+![FreelanceMe Projects](/screenshots/3-Projects.jpg?raw=true "FreelanceMe Projects")
+
+##### Messages
+
+![FreelanceMe Messages](/screenshots/4-Messages.jpg?raw=true "FreelanceMe Messages")
+
+##### Tickets
+
+![FreelanceMe Tickets](/screenshots/5-Tickets.jpg?raw=true "FreelanceMe Tickets")
+
+##### Users
+
+![FreelanceMe Users](/screenshots/6-Users.jpg?raw=true "FreelanceMe Users")
+
+---
 ### Installation
 Installation process will be described here...
 
@@ -49,6 +75,8 @@ Troubleshooting information goes here...
 - **Version that started it all.**
 - Started only with few front-end pages and modules.
 - Included user management [(UserFrosting)](https://github.com/userfrosting/UserFrosting).
+- Included calendar [(Fullcalendar)](https://github.com/fullcalendar/fullcalendar).
+- Picked the nicely done [Light Bootstrap Dashboard](https://github.com/timcreative/light-bootstrap-dashboard) by [Creative Tim](http://www.eative-tim.com/product/light-bootstrap-dashboard) as the project initial UI.
 
 ---
 ###### You can join us and chat a little about FreelanceMe
