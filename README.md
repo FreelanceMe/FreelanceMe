@@ -23,8 +23,8 @@ _Free to use in personal software as per the [license](licenses)._
 - ~~Bug Tracking System~~ `(Planned)`
 
 ###### Additional Features
-- User Management (Thanks to UserFrosting)
-- Calendar (Thanks to Fullcanlendar)
+- User Management (Thanks to [(UserFrosting)](https://github.com/userfrosting/UserFrosting))
+- Calendar (Thanks to [(Fullcalendar)](https://github.com/fullcalendar/fullcalendar))
 - ~~Multiple language support~~ `(Planned)`
 - ~~File sharing~~ `(Planned)`
 - ~~Private Messaging~~ `(Planned)`
