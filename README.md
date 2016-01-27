@@ -1,4 +1,4 @@
-# FreelanceMe [![Alpha v0.0.1](https://img.shields.io/badge/Alpha-v0.0.1-red.svg)](https://github.com/FreelanceMe/FreelanceMe#v001--12-31-2015) [![The code release is still on pending](https://img.shields.io/badge/Release-Pending-red.svg)](https://github.com/FreelanceMe/FreelanceMe)
+# FreelanceMe [![Alpha v0.0.1](https://img.shields.io/badge/Alpha-v0.0.1-red.svg?raw=true)](https://github.com/FreelanceMe/FreelanceMe#v001--12-31-2015) [![The code release is still on pending](https://img.shields.io/badge/Release-Pending-red.svg?raw=true)](https://github.com/FreelanceMe/FreelanceMe)
 ###### The free solution for small freelance business
 If you find [FreelanceMe](https://github.com/FreelanceMe/FreelanceMe) useful don't forget to hit that **star**. Remember, to keep everything as it should, **fork** only when you are ready to create your own copy to work on.
 
